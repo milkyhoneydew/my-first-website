@@ -9,7 +9,6 @@
 * _HTML_
 * _CSS_
 * _Markdown_
-* _here_
 
 ## License
 
